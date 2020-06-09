@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: Kanisha
+Build-Jdk: 1.8.0_251
+Implementation-Title: eventws
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.mthree
+Main-Class: ${start-class}
+
